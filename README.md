@@ -6,4 +6,3 @@ Task 1 files: https://www.kaggle.com/datasets/hijest/genre-classification-datase
 Task 2 files: https://www.kaggle.com/datasets/kartik2112/fraud-detection  
 Task 3 files: https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction  
 Task 4 files: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset  
-Task 5 files: 
